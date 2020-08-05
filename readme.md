@@ -8,7 +8,7 @@ Investigate the Global Life Expectancy in the Last 50 years
 by Livia Mendes
 
 ### Project Details
-I will conduct data analysis and create a file to share that documents my findings. I will use pandas and NumPy to answer the questions I am most interested in, and create a report sharing the answers.
+I will conduct data analysis using pandas and NumPy to answer the questions I am most interested in, and create a report sharing the answers.
 
 - Step One - Choose Data Set
 - Step Two - Get Organized
@@ -79,15 +79,8 @@ Are the bottom 10 countries GDP within the bottom 10 countries with the lowest l
 - health.csv
 
 ### Files
-- life_expectancy.csv
-- life_expectancy_f.csv
-- life_expectancy_m.csv
-- gdp.csv
-- gini.csv
-- health.csv
 - investigate_a_Dataset.ipynb
 - investigate_a_Dataset.html
-- project_details.txt
 - readme.md
 
 ## Conclusions
